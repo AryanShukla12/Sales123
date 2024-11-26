@@ -1,0 +1,12 @@
+﻿,Order ID,Customer Name,Region,Product,Quantity,Price,Sales,Order Date,Large Order,Sales Category,,Avg sales in east,,Profit
+,101,John Smith,North,Laptop,2,500,1000,10-11-2024,No,Medium,,1350,,0
+,102,Alice Johnson,South,Tablet,5,200,1000,11-11-2024,No,Medium,,,,0
+,103,Michael Brown,East,Smartphone,3,300,900,12-11-2024,No,Low,,,,0
+,104,Emma Wilson,West,Monitor,4,150,600,13-11-2024,No,Low,,,,0
+,105,Liam Taylor,North,Keyboard,10,20,200,14-11-2024,Yes,Low,,,,0
+,106,Olivia Martinez,South,Laptop,1,500,500,15-11-2024,No,Low,,,,0
+,107,Ethan Anderson,East,Smartphone,6,300,1800,16-11-2024,Yes,High,,,,0
+,108,Ava Thomas,West,Monitor,2,150,300,17-11-2024,No,Low,,,,0
+,109,Sophia White,North,Tablet,7,200,1400,18-11-2024,Yes,High,,,,0
+,110,James Davis,South,Laptop,3,500,1500,19-11-2024,No,High,,,,0
+Total,,,2600,3000,43,,9200,,,,,,,
